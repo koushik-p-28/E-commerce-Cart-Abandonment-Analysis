@@ -84,7 +84,7 @@ Built as part of an AI/ML internship project, this app demonstrates a complete m
 ## Project Structure
 
 ```
-📁 cart-abandonment-app/
+📁 CartAbandonmentProject/
 ├── shopping_abandonment.csv # Dataset
 ├── final_model.pkl # Trained model file
 ├── streamlit_app.py # Deployed app code
